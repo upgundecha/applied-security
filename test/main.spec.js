@@ -11,7 +11,7 @@ const srcMd = fs.readFileSync('README.md', 'utf8');
 describe('Checklist', function() {
   describe('Header', function() {
     it('is intact', function() {
-      expect(srcMd).to.startsWith('# How they SRE');
+      expect(srcMd).to.startsWith('# Applied Cybersecurity');
     });
   });
 
@@ -20,8 +20,6 @@ describe('Checklist', function() {
       const expectedH2List = [
         '## Introduction',
         '## Organizations',
-        '## SRECon Mix Playlist',
-        '## Resources',
         '## Credits',
         '## Other How They... repos',
         '## Contribute',
