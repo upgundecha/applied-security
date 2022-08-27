@@ -10,7 +10,6 @@ __Applied Cybersecurity__ is a curated knowledge repository of best practices, t
 
 Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
-
 ### Topics
 
 * Cybersecruity
@@ -39,7 +38,6 @@ Many organizations regularly come forward and share their best practices, tools,
 * [How Asana uses Asana: Security incident response](https://blog.asana.com/2021/09/engineering-security-incident-response/)
 * [How our Security team solved a Central InfoSec CTF challenge](https://blog.asana.com/2021/07/engineering-security-team-central-infosec-ctf-challenge/)
 * [Meet our Security team](https://blog.asana.com/2020/03/meet-security-engineering-team/)
-
 
 </details>
 
