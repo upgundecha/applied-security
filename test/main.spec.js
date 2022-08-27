@@ -21,7 +21,6 @@ describe('Checklist', function() {
         '## Introduction',
         '## Organizations',
         '## Credits',
-        '## Other How They... repos',
         '## Contribute',
         '## License'];
       const actualList = srcMd.match(/^## (.*$)/gim);
