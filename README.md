@@ -86,6 +86,7 @@ Many organizations regularly come forward and share their best practices, tools,
 
 ### Blog Posts
 
+* [How we handled a recent phishing incident that targeted Dropbox](https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox)
 * [Dropbox bug bounty program has paid out over $1,000,000](https://dropbox.tech/security/dropbox-bug-bounty-program-has-paid-out-over--1-000-000)
 * [How Dropbox Security builds tools for threat detection and incident response](https://dropbox.tech/security/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response)
 * [Towards better vendor security assessments](https://dropbox.tech/security/towards-better-vendor-security-assessments)
