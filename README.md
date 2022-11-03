@@ -1,6 +1,6 @@
 # Applied Cybersecurity
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/applied-cybersecurity/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/applied-cybersecurity/actions/workflows/workflow.yml)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/applied-cybersecurity/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/applied-cybersecurity/actions/workflows/workflow.yml) [![CodeQL](https://github.com/upgundecha/applied-security/actions/workflows/codeql.yml/badge.svg)](https://github.com/upgundecha/applied-security/actions/workflows/codeql.yml) [![Dependency Review](https://github.com/upgundecha/applied-security/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/upgundecha/applied-security/actions/workflows/dependency-review.yml)
 
 > A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Cybersecurity
 
