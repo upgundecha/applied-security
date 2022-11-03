@@ -191,8 +191,8 @@ Many organizations regularly come forward and share their best practices, tools,
 
 ### Blog Posts
 
-* [Wix Continuous Security Posture Management- Pt.1](https://www.wix.engineering/post/wix-continuous-security-posture-management-part-1)
-* [Wix Continuous Security Posture Management- Pt.2](https://www.wix.engineering/post/wix-continuous-security-posture-management-part-2)
+* [Wix Continuous Security Posture Management- Part 1](https://www.wix.engineering/post/wix-continuous-security-posture-management-part-1)
+* [Wix Continuous Security Posture Management- Part 2](https://www.wix.engineering/post/wix-continuous-security-posture-management-part-2)
 
 </details>
 
