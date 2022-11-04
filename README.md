@@ -165,7 +165,7 @@ Many organizations regularly come forward and share their best practices, tools,
 </details>
 
 <details>
-  <summary>Monzo</summary>
+  <summary>Monzo Bank</summary>
 
 ### Blog Posts
 
